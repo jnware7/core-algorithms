@@ -12,5 +12,8 @@
   },
   "scripts": {
     "test": "mocha --compilers js:babel-register"
+  },
+  "dependencies": {
+    "chai-sorted": "^0.1.0"
   }
 }
